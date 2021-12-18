@@ -1,0 +1,10 @@
+<?servbuntu-help-topic version="1.0" encoding="UTF-8"?>
+        <servbuntu-help-topic>
+            <MAIN>Usage: serv ssh [COMMAND]
+COMMANDs are:
+    port                Prints SSH Port
+    change-port         Changes SSH's Port</MAIN>
+                <port>Usage: serv ssh port
+Prints SSH's port</port><change-port>Usage: serv ssh change-port
+Changes SSH's Port</change-port>
+        </servbuntu-help-topic>
