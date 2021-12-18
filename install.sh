@@ -6,4 +6,4 @@ if [ $? -ne 0 ]; then
 fi
 mkdir /serv/pkgs/ssh
 mkdir -p /serv/data/ssh
-git clone https://github.com/Sid220/servbuntu-ssh-app.git /serv/pkgs/ssh/
+git clone https://github.com/Servbuntu/ssh-app.git /serv/pkgs/ssh/
