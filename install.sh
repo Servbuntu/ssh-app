@@ -7,3 +7,4 @@ fi
 mkdir /serv/pkgs/ssh
 mkdir -p /serv/data/ssh
 git clone https://github.com/Servbuntu/ssh-app.git /serv/pkgs/ssh/
+mv /serv/pkgs/ssh/ssh.sht /serv/help/
